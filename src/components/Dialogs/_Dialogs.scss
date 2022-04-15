@@ -1,0 +1,16 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  .users {
+    padding: 10px;
+    .active {
+        color: #bdbebd
+    }
+    // .chat {
+    // }
+  }
+  .messages {
+    padding: 10px;
+      color:#bdbebd
+  }
+}
