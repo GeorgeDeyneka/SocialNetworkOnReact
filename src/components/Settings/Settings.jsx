@@ -3,7 +3,7 @@ import React from 'react';
 const Settings = (props) => {
     return (
         <div>
-            Settings
+            Settings (in progress...)
         </div>
     )
 }
